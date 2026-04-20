@@ -19,7 +19,7 @@ struct ContentView: View {
                     Text(contact.firstName)
                 }
             }
-            .navigationTitle("Contacts")
+            .navigationTitle("Contacts-adit")
             .toolbar {
                 
                 ToolbarItem(placement: .bottomBar) {
